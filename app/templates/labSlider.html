@@ -1,0 +1,14 @@
+<div class="lab-slider">
+   <div class="slide" ng-repeat="object in objects track by $index" ng-class="{'active' : currentIndex===$index}">
+      <div class="slide-in">
+         <ng-include id="object.id" src="object.src"></ng-include>
+      </div>
+   </div>
+   <div class="triggers">
+      <a href="" ng-click="showSlide($index); cancelCircuit()" class="trigger" ng-class="{'active' : currentTriggerIndex===$index}" ng-repeat="object in objects track by $index"><span>{{$index}}</span></a>
+   </div>
+   <div class="wrap-narrow slide-text" ng-class="{'out' : fadeOut}">
+      <h1>{{objects[currentIndex].title}}</h1>
+      <p>{{objects[currentIndex].text}}</p>
+   </div>
+</div>

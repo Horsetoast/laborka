@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.0" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="89.424px" height="584.971px" viewBox="0 0 89.424 584.971" enable-background="new 0 0 89.424 584.971"
+	 xml:space="preserve">
+<g id="piping" display="none">
+	<g id="pipeline_x5F_straight_8_" display="inline">
+		
+			<rect id="pipe_13_" x="9.534" y="14.341" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.996"/>
+		<g id="pipeneck_28_">
+			<path fill="#FFFFFF" d="M9.648,19.575c-2.2,0-4-1.801-4-4v-2.469c0-2.201,1.8-4,4-4H25.46c2.2,0,4,1.799,4,4v2.469
+				c0,2.199-1.8,4-4,4H9.648z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.648,19.575c-2.2,0-4-1.801-4-4v-2.469
+				c0-2.201,1.8-4,4-4H25.46c2.2,0,4,1.799,4,4v2.469c0,2.199-1.8,4-4,4H9.648z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_7_" display="inline">
+		
+			<rect id="pipe_12_" x="9.534" y="78.071" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.996"/>
+		<g id="pipeneck_26_">
+			<path fill="#FFFFFF" d="M9.648,83.306c-2.2,0-4-1.801-4-4v-2.469c0-2.201,1.8-4,4-4H25.46c2.2,0,4,1.799,4,4v2.469
+				c0,2.199-1.8,4-4,4H9.648z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.648,83.306c-2.2,0-4-1.801-4-4v-2.469
+				c0-2.201,1.8-4,4-4H25.46c2.2,0,4,1.799,4,4v2.469c0,2.199-1.8,4-4,4H9.648z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_6_" display="inline">
+		
+			<rect id="pipe_11_" x="9.534" y="141.007" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.997"/>
+		<g id="pipeneck_24_">
+			<path fill="#FFFFFF" d="M9.648,146.241c-2.2,0-4-1.8-4-4v-2.469c0-2.2,1.8-4,4-4H25.46c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4
+				H9.648z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.648,146.241c-2.2,0-4-1.8-4-4v-2.469
+				c0-2.2,1.8-4,4-4H25.46c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4H9.648z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_5_" display="inline">
+		
+			<rect id="pipe_10_" x="9.534" y="204.737" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.997"/>
+		<g id="pipeneck_16_">
+			<path fill="#FFFFFF" d="M9.648,209.972c-2.2,0-4-1.8-4-4v-2.469c0-2.2,1.8-4,4-4H25.46c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4
+				H9.648z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.648,209.972c-2.2,0-4-1.8-4-4v-2.469
+				c0-2.2,1.8-4,4-4H25.46c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4H9.648z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_bent_6_" display="inline">
+		<g id="pipe_15_">
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.941,272.437c0-2.2,1.8-4,4-4h8.04
+				c2.2,0,4,1.8,4,4v10.977c0,2.2,1.8,4,4,4h10.978c2.2,0,4,1.8,4,4v8.041c0,2.2-1.8,4-4,4H25.981c0,0-16.04,1.244-16.04-17.509
+				S9.941,272.437,9.941,272.437z"/>
+		</g>
+		<g id="pipeneck_32_">
+			<path fill="#FFFFFF" d="M25.867,273.671c2.2,0,4-1.8,4-4v-2.469c0-2.2-1.8-4-4-4H10.056c-2.2,0-4,1.8-4,4v2.469c0,2.2,1.8,4,4,4
+				H25.867z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M25.867,273.671c2.2,0,4-1.8,4-4v-2.469
+				c0-2.2-1.8-4-4-4H10.056c-2.2,0-4,1.8-4,4v2.469c0,2.2,1.8,4,4,4H25.867z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_bent_5_" display="inline">
+		<g id="pipe_14_">
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M48.959,287.223c-2.2,0-4,1.8-4,4v8.04
+				c0,2.2,1.8,4,4,4h10.977c2.2,0,4,1.8,4,4v10.978c0,2.2,1.8,4,4,4h8.041c2.2,0,4-1.8,4-4v-14.978c0,0,1.244-16.04-17.509-16.04
+				S48.959,287.223,48.959,287.223z"/>
+		</g>
+		<g id="pipeneck_30_">
+			<path fill="#FFFFFF" d="M50.193,303.148c0,2.2-1.8,4-4,4h-2.469c-2.2,0-4-1.8-4-4v-15.812c0-2.2,1.8-4,4-4h2.469c2.2,0,4,1.8,4,4
+				V303.148z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M50.193,303.148c0,2.2-1.8,4-4,4h-2.469
+				c-2.2,0-4-1.8-4-4v-15.812c0-2.2,1.8-4,4-4h2.469c2.2,0,4,1.8,4,4V303.148z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_12_" display="inline">
+		
+			<rect id="pipe_19_" x="63.954" y="322.98" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.996"/>
+		<g id="pipeneck_40_">
+			<path fill="#FFFFFF" d="M64.068,328.215c-2.2,0-4-1.801-4-4v-2.469c0-2.201,1.8-4,4-4h15.812c2.2,0,4,1.799,4,4v2.469
+				c0,2.199-1.8,4-4,4H64.068z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M64.068,328.215c-2.2,0-4-1.801-4-4v-2.469
+				c0-2.201,1.8-4,4-4h15.812c2.2,0,4,1.799,4,4v2.469c0,2.199-1.8,4-4,4H64.068z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_11_" display="inline">
+		
+			<rect id="pipe_18_" x="63.954" y="386.711" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.996"/>
+		<g id="pipeneck_38_">
+			<path fill="#FFFFFF" d="M64.068,391.945c-2.2,0-4-1.801-4-4v-2.469c0-2.201,1.8-4,4-4h15.812c2.2,0,4,1.799,4,4v2.469
+				c0,2.199-1.8,4-4,4H64.068z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M64.068,391.945c-2.2,0-4-1.801-4-4v-2.469
+				c0-2.201,1.8-4,4-4h15.812c2.2,0,4,1.799,4,4v2.469c0,2.199-1.8,4-4,4H64.068z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_10_" display="inline">
+		
+			<rect id="pipe_17_" x="63.954" y="449.646" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.997"/>
+		<g id="pipeneck_36_">
+			<path fill="#FFFFFF" d="M64.068,454.881c-2.2,0-4-1.8-4-4v-2.469c0-2.2,1.8-4,4-4h15.812c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4
+				H64.068z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M64.068,454.881c-2.2,0-4-1.8-4-4v-2.469
+				c0-2.2,1.8-4,4-4h15.812c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4H64.068z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_9_" display="inline">
+		
+			<rect id="pipe_16_" x="63.954" y="513.377" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.997"/>
+		<g id="pipeneck_34_">
+			<path fill="#FFFFFF" d="M64.068,518.611c-2.2,0-4-1.8-4-4v-2.469c0-2.2,1.8-4,4-4h15.812c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4
+				H64.068z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M64.068,518.611c-2.2,0-4-1.8-4-4v-2.469
+				c0-2.2,1.8-4,4-4h15.812c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4H64.068z"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+	<g id="pipeline_x5F_straight_20_">
+		
+			<rect id="pipe_29_" x="9.534" y="14.341" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.996"/>
+		<g id="pipeneck_60_">
+			<path fill="#FFFFFF" d="M9.648,19.575c-2.2,0-4-1.801-4-4v-2.469c0-2.201,1.8-4,4-4H25.46c2.2,0,4,1.799,4,4v2.469
+				c0,2.199-1.8,4-4,4H9.648z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.648,19.575c-2.2,0-4-1.801-4-4v-2.469
+				c0-2.201,1.8-4,4-4H25.46c2.2,0,4,1.799,4,4v2.469c0,2.199-1.8,4-4,4H9.648z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_19_">
+		
+			<rect id="pipe_28_" x="9.534" y="78.071" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.996"/>
+		<g id="pipeneck_58_">
+			<path fill="#FFFFFF" d="M9.648,83.306c-2.2,0-4-1.801-4-4v-2.469c0-2.201,1.8-4,4-4H25.46c2.2,0,4,1.799,4,4v2.469
+				c0,2.199-1.8,4-4,4H9.648z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.648,83.306c-2.2,0-4-1.801-4-4v-2.469
+				c0-2.201,1.8-4,4-4H25.46c2.2,0,4,1.799,4,4v2.469c0,2.199-1.8,4-4,4H9.648z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_18_">
+		
+			<rect id="pipe_27_" x="9.534" y="141.007" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.997"/>
+		<g id="pipeneck_56_">
+			<path fill="#FFFFFF" d="M9.648,146.241c-2.2,0-4-1.8-4-4v-2.469c0-2.2,1.8-4,4-4H25.46c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4
+				H9.648z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.648,146.241c-2.2,0-4-1.8-4-4v-2.469
+				c0-2.2,1.8-4,4-4H25.46c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4H9.648z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_17_">
+		
+			<rect id="pipe_26_" x="9.534" y="204.737" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.997"/>
+		<g id="pipeneck_54_">
+			<path fill="#FFFFFF" d="M9.648,209.972c-2.2,0-4-1.8-4-4v-2.469c0-2.2,1.8-4,4-4H25.46c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4
+				H9.648z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.648,209.972c-2.2,0-4-1.8-4-4v-2.469
+				c0-2.2,1.8-4,4-4H25.46c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4H9.648z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_bent_8_">
+		<g id="pipe_25_">
+			<path fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M9.941,272.437c0-2.2,1.8-4,4-4h8.04
+				c2.2,0,4,1.8,4,4v10.977c0,2.2,1.8,4,4,4h10.978c2.2,0,4,1.8,4,4v8.041c0,2.2-1.8,4-4,4H25.981c0,0-16.04,1.244-16.04-17.509
+				S9.941,272.437,9.941,272.437z"/>
+		</g>
+		<g id="pipeneck_52_">
+			<path fill="#FFFFFF" d="M25.867,273.671c2.2,0,4-1.8,4-4v-2.469c0-2.2-1.8-4-4-4H10.056c-2.2,0-4,1.8-4,4v2.469c0,2.2,1.8,4,4,4
+				H25.867z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M25.867,273.671c2.2,0,4-1.8,4-4v-2.469
+				c0-2.2-1.8-4-4-4H10.056c-2.2,0-4,1.8-4,4v2.469c0,2.2,1.8,4,4,4H25.867z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_bent_7_">
+		<g id="pipe_24_">
+			<path fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M48.959,287.223c-2.2,0-4,1.8-4,4v8.04
+				c0,2.2,1.8,4,4,4h10.977c2.2,0,4,1.8,4,4v10.978c0,2.2,1.8,4,4,4h8.041c2.2,0,4-1.8,4-4v-14.978c0,0,1.244-16.04-17.509-16.04
+				S48.959,287.223,48.959,287.223z"/>
+		</g>
+		<g id="pipeneck_50_">
+			<path fill="#FFFFFF" d="M50.193,303.148c0,2.2-1.8,4-4,4h-2.469c-2.2,0-4-1.8-4-4v-15.812c0-2.2,1.8-4,4-4h2.469c2.2,0,4,1.8,4,4
+				V303.148z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M50.193,303.148c0,2.2-1.8,4-4,4h-2.469
+				c-2.2,0-4-1.8-4-4v-15.812c0-2.2,1.8-4,4-4h2.469c2.2,0,4,1.8,4,4V303.148z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_16_">
+		
+			<rect id="pipe_23_" x="63.954" y="322.98" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.996"/>
+		<g id="pipeneck_48_">
+			<path fill="#FFFFFF" d="M64.068,328.215c-2.2,0-4-1.801-4-4v-2.469c0-2.201,1.8-4,4-4h15.812c2.2,0,4,1.799,4,4v2.469
+				c0,2.199-1.8,4-4,4H64.068z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M64.068,328.215c-2.2,0-4-1.801-4-4v-2.469
+				c0-2.201,1.8-4,4-4h15.812c2.2,0,4,1.799,4,4v2.469c0,2.199-1.8,4-4,4H64.068z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_15_">
+		
+			<rect id="pipe_22_" x="63.954" y="386.711" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.996"/>
+		<g id="pipeneck_46_">
+			<path fill="#FFFFFF" d="M64.068,391.945c-2.2,0-4-1.801-4-4v-2.469c0-2.201,1.8-4,4-4h15.812c2.2,0,4,1.799,4,4v2.469
+				c0,2.199-1.8,4-4,4H64.068z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M64.068,391.945c-2.2,0-4-1.801-4-4v-2.469
+				c0-2.201,1.8-4,4-4h15.812c2.2,0,4,1.799,4,4v2.469c0,2.199-1.8,4-4,4H64.068z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_14_">
+		
+			<rect id="pipe_21_" x="63.954" y="449.646" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.997"/>
+		<g id="pipeneck_44_">
+			<path fill="#FFFFFF" d="M64.068,454.881c-2.2,0-4-1.8-4-4v-2.469c0-2.2,1.8-4,4-4h15.812c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4
+				H64.068z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M64.068,454.881c-2.2,0-4-1.8-4-4v-2.469
+				c0-2.2,1.8-4,4-4h15.812c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4H64.068z"/>
+		</g>
+	</g>
+	<g id="pipeline_x5F_straight_13_">
+		
+			<rect id="pipe_20_" x="63.954" y="513.377" fill="#FFFFFF" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" width="16.04" height="62.997"/>
+		<g id="pipeneck_42_">
+			<path fill="#FFFFFF" d="M64.068,518.611c-2.2,0-4-1.8-4-4v-2.469c0-2.2,1.8-4,4-4h15.812c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4
+				H64.068z"/>
+			<path fill="none" stroke="#735DA8" stroke-width="3" stroke-miterlimit="10" d="M64.068,518.611c-2.2,0-4-1.8-4-4v-2.469
+				c0-2.2,1.8-4,4-4h15.812c2.2,0,4,1.8,4,4v2.469c0,2.2-1.8,4-4,4H64.068z"/>
+		</g>
+	</g>
+</g>
+</svg>

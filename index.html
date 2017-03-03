@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+   <!-- Basic Setting -->
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <!-- Basic Information -->
+   <title>LABORKA.TW</title>
+   <meta name="description" content="">
+   <meta name="keywords" content="">
+   <!-- bower:css -->
+   <link rel="stylesheet" href="css/main.css">
+   <!-- endinject -->
+   <!-- Main style file -->
+   <link rel="stylesheet" href="css/style.css" type="text/css">
+   <link rel="stylesheet" href="css/svg.css" type="text/css">
+</head>
+
+<body ng-app="app" ng-controller="MainCtrl">
+
+   <div id="rc11" class="bcg-rectangle" du-parallax y="pxM">
+      <div class="pipeline hide-on-med-and-down" du-parallax y="pxPipe">
+         <ng-include id="pipe-1" src="svgs.laborkaPipeline"></ng-include>
+      </div>
+   </div>
+
+   <div class="container-custom">
+      <div class="row">
+         <a href="http://www.laborka.tw" id="logo-main" class="svg hide-on-med-and-down">
+            <ng-include src="svgs.logo"></ng-include>
+         </a>
+         <a href="#" id="logo-main-small" class="svg hide-on-small-only hide-on-large-only">
+            <ng-include src="svgs.logoSmall"></ng-include>
+         </a>
+         <a href="" id="menu-burger" class="hamburger" ng-click="toggleMenu()">
+            <ng-include src="svgs.hamburger"></ng-include>
+         </a>
+         <ul id="main-menu" class="burger-menu">
+            <li ng-class="{'active': isActive, 'hidden' : isActive == false}"><a href="" scroll-to="port1">Portfolio</a></li>
+            <li ng-class="{'active': isActive, 'hidden' : isActive == false}"><a href="" scroll-to="port2">Why work with us</a></li>
+            <li ng-class="{'active': isActive, 'hidden' : isActive == false}"><a href="" scroll-to="port3">Contact</a></li>
+         </ul>
+         <div id="main-switch" class="lang-switch hide" du-parallax y="pxResist">
+            <a href="" class="active"><span>EN</span>
+            <a href=""><span>中文</span></a>
+         </div>
+         <div class="col s12 m12 l8 offset-l2">
+            <div class="caption-holder short">
+               <span class="caption">Welcome to LABORKA</span>
+            </div>
+            <div class="row space-bottom">
+               <div id="welcome-div" class="col s12">
+                  <div id="welcome-lab-wrap">
+                     <ng-include id="welcome-lab" class="centered space-top space-bottom" src="svgs.welcomeLab"></ng-include>
+                  </div>
+                  <div class="wrap-narrow">
+                     <h1>We know the formula for successful websites</h1>
+                     <p>We are a unique Taiwanese-slovakian digital lab that creates eye-catching websites established in 2016. We focus on providing a pleasant, interactive experience for your website visitors to transform your ideas into digital matter.</p>
+                  </div>
+               </div>
+            </div>
+
+            <div class="dashed-border-h" id="port1">
+               <!-- Horizontal dashed border -->
+            </div>
+            <div class="caption-holder short">
+               <span class="caption">Recent work</span>
+            </div>
+            <div class="row space-top">
+               <div class="portfolio-box">
+                  <a class="work">
+                     <img ng-src="img/portfolio_shuttermaster.jpg" alt="ShutterMaster" class="img-responsive">
+                  </a>
+               </div>
+               <div class="portfolio-box">
+                  <a class="work">
+                     <img ng-src="img/portfolio_splitpal.jpg" alt="InBetween" class="img-responsive">
+                  </a>
+               </div>
+               <div class="portfolio-box-empty hide">
+                  <a href="" class="work button button-wide button-b">
+                     <span>The next work can be yours</span>
+                  </a>
+               </div>
+               <!-- <div class="col s12 portfolio-more">
+                  <a href="" class="button btn-b more-work">Show more</a>
+               </div> -->
+            </div>
+
+            <div class="dashed-border-h" id="port2">
+               <!-- Horizontal dashed border -->
+            </div>
+            <div class="caption-holder short">
+               <span class="caption">It's in our DNA</span>
+            </div>
+
+            <div class="row space-bottom space-top" ng-controller="LabSliderCtrl">
+               <div class="col s12">
+                  <slider objects="objects"></slider>
+               </div>
+            </div>
+
+            <div class="row space-top">
+               <div class="cost-estimate" id="port3">
+                  <div ng-class="{'form-sending' : formSending}"></div>
+                  <div id="transportabot-wrap">
+                     <ng-include id="transportabot-1" src="svgs.transportabot" style="position: absolute;"></ng-include>
+                  </div>
+                  <h2>Say hi, don't be shy</h2>
+                  <form autocomplete="off" ng-submit="sendEmail()" ng-class="{'form-success' : formSent === true}">
+                     <div class="input-field">
+                        <input id="company" type="text" class="validate" name="company" ng-model="formData.company">
+                        <label for="company">Company</label>
+                     </div>
+                     <div class="input-field">
+                        <input id="name" type="text" class="validate" name="name" ng-model="formData.name">
+                        <label for="name">Name</label>
+                     </div>
+                     <div class="input-field">
+                        <input id="email" type="email" class="validate" name="email" ng-model="formData.email">
+                        <label for="email">Email</label>
+                     </div>
+                     <div class="input-field">
+                        <textarea id="textarea1" class="materialize-textarea" ng-model="formData.message"></textarea>
+                        <label for="textarea1">Message</label>
+                     </div>
+                     <p>
+                        <input type="checkbox" id="good-day" name="good_day" ng-model="formData.goodDay" />
+                        <label for="good-day">Are you feeling good today?</label>
+                     </p>
+                     <br>
+                     <button class="button-inverse button-b button-wide" ng-click="animateTransportabot()">
+                        Submit
+                     </button>
+                  </form>
+                  <div class="form-sent" ng-show="formSent">
+                     <span>Your message has been sent. We'll talk to you soon!</span>
+                  </div>
+               </div>
+               <div class="col s12 centered space-top space-bottom">
+                  <div class="contact">
+                     <span>You can say hi at hello(at)laborka.tw</span>
+                  </div>
+                  <a href="https://www.facebook.com/Laborka-568734419958981" id="fb-button" class="button button-m">Find us on facebook</a>
+               </div>
+            </div>
+
+         </div>
+      </div>
+   </div>
+
+   <!-- bower:js -->
+   <script src="js/vendor/materialize.js"></script>
+   <script src="js/vendor/angular.js"></script>
+   <!-- endinject -->
+   <!-- angular:js -->
+   <script src="js/app.js"></script>
+   <!-- endinject -->
+</body>
+
+</html>
